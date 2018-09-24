@@ -1,0 +1,10 @@
+site:
+  name: ptt_beauty
+  url: https://www.ptt.cc/bbs/Beauty/index.html
+  html_tag:
+    content:
+      name: div
+      clazz: r-ent
+    img:
+      name: a
+      clazz:

@@ -1,0 +1,10 @@
+line-bot-sdk
+flask
+geoip2
+googlemaps
+pika
+requests
+beautifulsoup4
+PyYAML
+pymongo
+nltk
